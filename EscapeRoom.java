@@ -40,9 +40,9 @@ public class EscapeRoom {
 						+ "\n She’s waiting for me outside. "
 						+ "\n Wait, why is the door locked."
 						+ "\n what should I do now?"
-						+ "\n Please type in \"Look\", \"Take\", \"Going Forward\", \"Going Backward\" or \"Use\" );
+						+ "\n Please type in Look, Take, Going Forward, Going Backward or Use." );
 			}
-			String action2 = sc.nextLine();
+			String action2 = sc.next();
 			
 			switch (action2) {
 			
