@@ -6,10 +6,7 @@ public class EscapeRoom {
 	
 	public static void main (String[] args) {
 		sc = new Scanner(System.in); 
-		System.out.println("Welcome to the Escape Room"
-				+ "\n You are the palyer that found yourself in the room"
-				+ "\n You need to find the clues in the room to get"
-				+ "\n out of the room so that to reach other levels.");
+		System.out.println("Welcome to the Escape Room");
 		String answer="";
 		System.out.println("Would you like to play? \n");
 		answer = sc.next();
