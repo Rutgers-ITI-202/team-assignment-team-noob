@@ -21,41 +21,24 @@ public class Alex {
 
 	public Alex(){
 	}
-		public void akey(boolean key){ // this is the boolean while if the case is yes, story can keep going.
-			this.smallKey =!this.smallKey ;		
-		}
 		public boolean getsmallKey(){
-			return smallKey ;
+			return true ;
 		}
-		public void abox (boolean box){
-			this.box= !this.box;
-		}
+		
 		public boolean LookatBox(){
-			return box;
-		}
-		public void aWeddingPhoto (boolean WeddingPhoto){
-			this.WeddingPhoto=! this.WeddingPhoto;
+			return true;
 		}
 		public boolean LookatWeddingPhoto(){
-			return WeddingPhoto;
-		}
-		public void aBrush (boolean brush){
-			this.brush=!this.brush;
+			return true;
 		}
 		public boolean GetBrush(){
-			return brush;
-		}
-		public void amountainPhoto(boolean mountainPhoto){
-			this.mountainPhoto=!this.mountainPhoto;
+			return true;
 		}
 		public boolean LookatMountain(){
-			return mountainPhoto;
-		}
-		public void aRoomKey (boolean roomkey){
-			this.roomkey=!this.roomkey;
+			return true;
 		}
 		public boolean Getroomkey(){
-			return roomkey;
+			return true;
 		}
 	}
 
