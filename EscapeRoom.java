@@ -19,54 +19,58 @@ public class EscapeRoom {
 			return; 
 		}
 		else  {
-			System.out.println("You find yourself in the middle of the dark room."
-					+ "\n The room is entirly closed and has no windows."
-					+ "\n It should be morning already but you do not feel the sunlight."
-					+ "\n You did not feel like you slept well last night."
-					+ "\n Your body feels so heavy that you hardly move for seconds."
-					+ "\n You found their there is a door and wanted to open it or not.");
+			System.out.println( "It’s already morning..."
+					+ "\n \"I feel like I didn’t sleep well last night.\""
+					+ "\n Your body feels so heavy."
+					+ "\n \"Are you up now?\” said your lovers."
+					+ "\n \"Yes, What time did we go to bed last night?\""
+					+ "\n \"We tried to sleep early, but we stayed up late because of you.\""
+					+ "\n \"Because of me?\""
+					+ "\n \"You don’t know why? Come on, babe.\""
+					+ "\n \"Ah, Sorry.\""
+					+ "\n \"I feel very happy these days. I wish I could stop the time and stay in these moment forever.\""
+					+ "\n \"Don’t worry. I will always stay with you.\""
+					+ "\n \"Let’s Go out and enjoy this lovely weekend.\""
+					+ "\n \"Wait, when is our wedding anniversary?\"You feel confused."
+				 	+ "\n \"Please don’t kid me. The date is marked on our wedding photo.\""
+					+ "\n Oh, she goes out. Should I goes out and catch up with her?");
 			String input = sc.next();
 			if (input.equalsIgnoreCase("Yes")){
-				System.out.println("You walk toward the door and pull hard on the handle."
-						+ "\n Unfortunately you cannot open it. You are now intrigued by "
-						+ "\n the latern on the floor that is illumiated."
-						+ "\n Now what you do?");
+				System.out.println("You get up."
+						+ "\n She’s waiting for me outside. "
+						+ "\n Wait, why is the door locked."
+						+ "\n what should I do now?"
+						+ "\n Please type in \"Look\", \"Take\", \"Going Forward\", \"Going Backward\" or \"Use\" );
 			}
 			String action2 = sc.nextLine();
 			
 			switch (action2) {
 			
-			case "ENTER" :
-				System.out.println("The door is locked which key is needed to open it");
+			case "Going Forward" :
+				System.out.println("The door for going out is locked is locked, I need to find out the key first.");
 				break;
 			
-			case "EXIT" :
-				System.out.println("That is not possible right now. Try somthing else?");
+			case "Going Backward" :
+				System.out.println("Oh, come on, it's not the time for sleeping. I have something to do.");
 				break; 
 			
 			case "LOOK" :
-				System.out.println("That is not possible right now. Try somthing else?");
+				System.out.println("You are in your bedroom."
+						  + "\n There aren’t any particular objects here."
+						  + "\n Just a giant photo of mountain on the wall."
+						  + "\n Beside the photo is a large photo of your lover."
+						  + "\n Also a globe on your desk.");
 				break;
 				
-			case "DROP" :
-				System.out.println("That is not possible right now. Try somthing else?");
+			case "Use" :
+				System.out.println("There is nothing you can use for now.");
 				break;
 				
 			case "TAKE" :
-				System.out.println("That is not possible right now. Try somthing else?");
+				System.out.println("You cannot take anything at that moment");
 				break;
 			}
 			
-			String action3 = sc.next();
-			switch (action3){
-			case "ENTER" :
-				System.out.println("That is not possible right now. Try somthing else?");
-				break;
-				
-			case "EXIT" :
-				System.out.println("That is not possible right now. Try somthing else?");
-				break;
-			}
 		}
 	}
 
