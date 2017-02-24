@@ -47,15 +47,15 @@ public class EscapeRoom {
 			switch (action2) {
 			
 			case "Going Forward" :
-				System.out.println("The door for going out is locked is locked, I need to find out the key first.");
+				System.out.println(" The door for going out is locked is locked, I need to find out the key first.");
 				break;
 			
 			case "Going Backward" :
-				System.out.println("Oh, come on, it's not the time for sleeping. I have something to do.");
+				System.out.println(" Oh, come on, it's not the time for sleeping. I have something to do.");
 				break; 
 			
 			case "LOOK" :
-				System.out.println("You are in your bedroom."
+				System.out.println(" You are in your bedroom."
 						  + "\n There aren’t any particular objects here."
 						  + "\n Just a giant photo of mountain on the wall."
 						  + "\n Beside the photo is a large photo of your lover."
@@ -63,11 +63,11 @@ public class EscapeRoom {
 				break;
 				
 			case "Use" :
-				System.out.println("There is nothing you can use for now.");
+				System.out.println(" There is nothing you can use for now.");
 				break;
 				
 			case "TAKE" :
-				System.out.println("You cannot take anything at that moment");
+				System.out.println(" You cannot take anything at that moment");
 				break;
 			}
 			
