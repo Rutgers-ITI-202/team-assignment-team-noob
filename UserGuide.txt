@@ -1,0 +1,31 @@
+User Guide 
+Complete guide of victory: This game is like the escape-room game that the player need to find the keys in each room to escape from. After the player, had successfully escape the room, they get the hints for location of the soul fragments so that they can collect the soul fragments. Once the player collect five fragments, the player will get his/her lover back and win the game. So first, the players will find themselves in the bedroom which is in a big mess. Player will first need to find the brush which is in the bathroom and use it to clean up the wedding picture. Player will also find there is a giant picture of mountain in the wall. The player will need to find the hammer to break the picture or remove the picture in order to find there is a giant picture of lover. Players can also go to the cloakroom and see that there are lots of clothes on the ground. Player needs to remove those clothes and find the safe. The code of the safe should be the date of the wedding date and player will found the room key after open the safe. Player will then go to the front door to choose options to open the door. By using the hammer, player will break the door and come out of the room. Player will receive the hint of the first soul fragment. You go to the secret room and collect the first shining soul fragment. By escaping the flowing rooms, player will get the hints of the location which are in the basement, opera hall, guardian’s library and the banquet hall for the remaining soul fragments. 
+
+List of command:
+Going forward: this command will let the player to go straight in the game. 
+Going backward: this command will let the player to go backward in the game. 
+Going left: player will go left.
+Going right: player will go right. 
+Look: the person will look around so that players can see what it is around the room. 
+Get small key: players will pick up the key in front of them. 
+Get room key: players will pick up the key in front of them.
+Get brush: players will pick up the brush in front of them.
+Use: the players will use the objects that they had picked up.
+
+List of inventory items:
+Wedding photo: this is the hint for the player to know the information of the location of the fist soul fragment. 
+Giant photo of mountain: under this giant photo player need to remove it and find the giant picture of love. 
+Globe: when the player look at the globe, you will get the “memory” about the globe.  
+Giant picture of your lover: this photo is under the giant photo of mountain. 
+Small key: this small key is on the ground and this key is not working. 
+Brush: need to use it to clean the wedding picture in the first chapter. And you can find it in the bathroom. 
+Safe: the player can find the room key in the safe which is located underneath lots of clothes in the cloakroom. 
+Room key: need to use this room key to go outside of the room. 
+Hammer: this is the option player can choose to break the door or any other things. 
+Television: it is in the living room but it is not working because something is wrong with the screen. It is an option for player to choose for asking help.
+Mobile phone: it is in the living room and it is the options for player to choose to acquire information.
+Computer: it is in the living room and it is the options for player to choose to acquire information. 
+Cable: it is in the cloak room and it is the options for player to choose to acquire information.
+
+Summary of plots 
+The story background of this game is about a couple who are both trapped in the house with many rooms. At the beginning, Alex (the player) was always tired and sleepy. And every time he woke up, he found himself locked in the room and could not get out unless he found the keys. Later he found out that every day he woke up the same things happened again. There was a time looper in the house and he kept listening to the inner voice from his lover. But he couldn’t find her. So, he had to break the door and come out and finally he saw her lover’s grave. He realized that he needed to collect the five fragments to bring his lover back and win the game. 
